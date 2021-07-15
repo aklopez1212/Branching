@@ -10,3 +10,5 @@
 * 'git branch' - list local branches
 * 'git branch newBranch' - create local branch
 * 'git checkout newBranch' - Move to branch newBranch
+
+Some other branch info.
