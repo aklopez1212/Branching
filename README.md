@@ -4,3 +4,4 @@
 * 'git status' - Show state of local repo
 * 'git log' - List commit history
 * 'git log --oneline' - Compact commit history
+* 'git add .' - Stage current directory in git index
