@@ -11,4 +11,4 @@
 * 'git branch newBranch' - create local branch
 * 'git checkout newBranch' - Move to branch newBranch
 
-Some other branch info.
+Some other branch info. Something something, dark side.
